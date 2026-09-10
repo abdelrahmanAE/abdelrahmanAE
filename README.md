@@ -20,19 +20,17 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Tools**
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,mysql,git,linux" alt="My Skills" />
   </a>
 </p>
 
-**Concepts & Competencies**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Algorithms%20%26%20Data%20Structures-2C2255?style=for-the-badge" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-4B32C3?style=for-the-badge" alt="OOP" />
-  <img src="https://img.shields.io/badge/-System%20Design-6A42F0?style=for-the-badge" alt="System Design" />
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Algorithms_%26_Data_Structures-1e1e1e?style=for-the-badge&color=2d2d2d" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/🧩_Object_Oriented_Programming-1e1e1e?style=for-the-badge&color=2d2d2d" alt="OOP" />
+  <img src="https://img.shields.io/badge/📐_System_Design-1e1e1e?style=for-the-badge&color=2d2d2d" alt="System Design" />
 </p>
-
 ---
 ### 🏆 Competitive Programming Stats
 
