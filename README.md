@@ -7,18 +7,19 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Competitive+Programmer" alt="Typing SVG" />
 </div>
+
 ---
 
 ### 👨‍💻 About Me
 
-"I am driven by a constant desire to learn and a deep need to understand exactly how everything works. That curiosity is why I chose to be a competitive programmer—to master problem-solving at its core—and a software engineer—to build real-world systems. For me, it's all about turning complex logic into efficient, elegant solutions.
+I am driven by a constant desire to learn and a deep need to understand exactly how everything works. That curiosity is why I chose to be a competitive programmer—to master problem-solving at its core—and a software engineer—to build real-world systems. For me, it's all about turning complex logic into efficient, elegant solutions.
 
-* 📫 **How to reach me:** [abdelrahmanalaa221@gmail.com]
+* 📫 **How to reach me:** [abdelrahmanalaa221@gmail.com](mailto:abdelrahmanalaa221@gmail.com)
 
 ---
 
-<div>
-***Languages & Tools***
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,mysql,git,linux" alt="My Skills" />
@@ -30,8 +31,9 @@
   <img src="https://img.shields.io/badge/🧩_Object_Oriented_Programming-1e1e1e?style=for-the-badge&color=2d2d2d" alt="OOP" />
   <img src="https://img.shields.io/badge/📐_System_Design-1e1e1e?style=for-the-badge&color=2d2d2d" alt="System Design" />
 </p>
+
 ---
-</div>
+
 ### 🏆 Competitive Programming Stats
 
 <div align="center">
@@ -49,6 +51,8 @@
     <img src="https://leetcard.jacoblin.cool/AEabdelrahman?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
+
+---
 
 ### 📊 GitHub Stats
 
