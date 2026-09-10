@@ -37,27 +37,29 @@
 </p>
 
 ---
-### 🏆 Competitive Programming Profiles
+### 🏆 Competitive Programming Stats
 
-<p align="left">
+<div align="center">
+  <!-- Codeforces Stats Card -->
   <a href="https://codeforces.com/profile/SHANBO" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SHANBO&theme=radical" alt="Codeforces Stats" />
   </a>
-  
+</div>
+
+<br>
+
+<div align="center">
+  <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/AEabdelrahman" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://leetcard.jacoblin.cool/AEabdelrahman?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
-  
-  <a href="https://atcoder.jp/users/SHANBO" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
-  </a>
-</p>
+</div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanAE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanAE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
