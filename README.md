@@ -17,10 +17,9 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Tools**
+<div>
 <p align="center">
+  **Languages & Tools**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,mysql,git,linux" alt="My Skills" />
   </a>
@@ -32,6 +31,7 @@
   <img src="https://img.shields.io/badge/📐_System_Design-1e1e1e?style=for-the-badge&color=2d2d2d" alt="System Design" />
 </p>
 ---
+</div>
 ### 🏆 Competitive Programming Stats
 
 <div align="center">
