@@ -48,5 +48,12 @@ I am driven by a constant desire to learn and a deep need to understand exactly 
 
 ---
 <div align="center">
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=abdelrahmanAE&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=15"
+    width="450"
+    height="195"
+  />
+</div>
+<div align="center">
   <i>"Consistency is the key to solving the hardest problems."</i>
 </div>
