@@ -19,7 +19,8 @@
 
 <div>
 <p align="center">
-  **Languages & Tools**
+  <h2>Languages & Tools </h2>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,mysql,git,linux" alt="My Skills" />
   </a>
