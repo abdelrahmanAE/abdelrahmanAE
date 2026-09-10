@@ -49,9 +49,10 @@ I am driven by a constant desire to learn and a deep need to understand exactly 
 
 ### 📊 GitHub Stats
 
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanAE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanAE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://images.weserv.nl/?url=https://github-readme-stats.vercel.app/api?username=abdelrahmanAE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://images.weserv.nl/?url=https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanAE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
